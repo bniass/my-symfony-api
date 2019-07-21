@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1563666049">
-  <project timestamp="1563666049">
+<coverage generated="1563722385">
+  <project timestamp="1563722385">
     <package name="App\Controller">
       <file name="C:\xampp\htdocs\my-symfony-api\src\Controller\MovieController.php">
         <class name="App\Controller\MovieController" namespace="App\Controller">

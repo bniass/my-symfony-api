@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="Project Test Suite" tests="3" assertions="3" errors="0" failures="0" skipped="0" time="3.712000">
-    <testsuite name="App\Tests\MovieControllerTest" file="C:\xampp\htdocs\my-symfony-api\tests\MovieControllerTest.php" tests="3" assertions="3" errors="0" failures="0" skipped="0" time="3.712000">
-      <testcase name="testGetMovieAction" class="App\Tests\MovieControllerTest" classname="App.Tests.MovieControllerTest" file="C:\xampp\htdocs\my-symfony-api\tests\MovieControllerTest.php" line="9" assertions="1" time="1.507000"/>
-      <testcase name="testPostMovieOkAction" class="App\Tests\MovieControllerTest" classname="App.Tests.MovieControllerTest" file="C:\xampp\htdocs\my-symfony-api\tests\MovieControllerTest.php" line="19" assertions="1" time="1.244000"/>
-      <testcase name="testPostMovieKoAction" class="App\Tests\MovieControllerTest" classname="App.Tests.MovieControllerTest" file="C:\xampp\htdocs\my-symfony-api\tests\MovieControllerTest.php" line="40" assertions="1" time="0.961000">
+  <testsuite name="Project Test Suite" tests="3" assertions="3" errors="0" failures="0" skipped="0" time="3.987500">
+    <testsuite name="App\Tests\MovieControllerTest" file="C:\xampp\htdocs\my-symfony-api\tests\MovieControllerTest.php" tests="3" assertions="3" errors="0" failures="0" skipped="0" time="3.987500">
+      <testcase name="testGetMovieAction" class="App\Tests\MovieControllerTest" classname="App.Tests.MovieControllerTest" file="C:\xampp\htdocs\my-symfony-api\tests\MovieControllerTest.php" line="9" assertions="1" time="1.840000"/>
+      <testcase name="testPostMovieOkAction" class="App\Tests\MovieControllerTest" classname="App.Tests.MovieControllerTest" file="C:\xampp\htdocs\my-symfony-api\tests\MovieControllerTest.php" line="19" assertions="1" time="1.217500"/>
+      <testcase name="testPostMovieKoAction" class="App\Tests\MovieControllerTest" classname="App.Tests.MovieControllerTest" file="C:\xampp\htdocs\my-symfony-api\tests\MovieControllerTest.php" line="40" assertions="1" time="0.930000">
         <system-out>C:\xampp\htdocs\my-symfony-api\tests\MovieControllerTest.php:56:
 class Symfony\Component\HttpFoundation\Response#3616 (6) {
   public $headers =&gt;
